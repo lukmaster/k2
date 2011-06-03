@@ -4,6 +4,5 @@
 2) Jaki uzytkownik jest odpowiedzialny za wprowadzenie tego wlasnie drugiego pytania?
    Jakim poleceniem mozna to sprawdzic?
 
-Odpowiedzi:
-==============================================================================
-
+1) wartosc wynosi 1000 byla typu stalego dodatnia
+2) rperlinski
